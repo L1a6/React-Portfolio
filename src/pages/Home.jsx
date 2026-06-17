@@ -1,4 +1,4 @@
-import Resume from "../assets/kamal-manna-full-stack-developer-resume.pdf";
+import Resume from "../assets/kamal-manna-mern-stack-developer-resume.pdf";
 import Hero from "../assets/mern-stack-developer-portfolio-hero.webp";
 
 function Home() {
